@@ -10,7 +10,7 @@
 Soy desarrolladora y formadora técnica con experiencia en:
 
 - Desarrollo **Backend con Java y Spring Boot**
-- Desarrollo **Frontend con Angular**
+- Desarrollo **Frontend con Angular y React**
 - Arquitectura moderna (**Clean Architecture / Hexagonal**)
 - Formación de desarrolladores junior en proyectos reales
 - Acompañamiento técnico y liderazgo de clanes
@@ -30,6 +30,7 @@ Me enfoco en crear software **mantenible, escalable y alineado al negocio**, y e
 
 **Frontend**
 - Angular
+- React
 - TypeScript
 - HTML / CSS
 - Arquitectura de componentes
