@@ -1,20 +1,20 @@
 # Hi, I'm Angela Monsalve 👋
 
-### Software Engineer | Technical Trainer | Java, Spring Boot & Modern Frontend Specialist
-📍 Colombia | Dedicated to mentoring talent, building clean architectures, and developing scalable systems.
+### Senior Fullstack Developer | Java, Spring Boot & Modern Frontend Specialist
+📍 Colombia | Dedicated to building clean architectures, scalable systems, and high-quality software.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a results-driven **Software Engineer** and **Technical Trainer** with extensive experience in designing and building scalable backend systems and responsive web applications. I specialize in:
+I am a results-driven **Senior Fullstack Developer** with extensive experience in designing and building scalable backend systems and responsive web applications. I specialize in:
 
 - **Backend Development**: Designing high-throughput RESTful & Reactive APIs using **Java and Spring Boot / WebFlux**.
-- **Frontend Development**: Building component-driven, responsive user interfaces with **Angular and React**.
-- **Software Architecture**: Promoting robust, maintainable, and scalable design patterns (**Clean Architecture / Hexagonal Architecture**).
-- **Engineering Leadership**: Mentoring junior developers, leading technical squads, and facilitating hands-on project-based bootcamps.
+- **Frontend Development**: Building component-driven, responsive, and highly interactive user interfaces with **Angular and React**.
+- **Software Architecture**: Promoting and implementing robust, maintainable, and scalable design patterns (**Clean Architecture / Hexagonal Architecture**).
+- **Technical Leadership**: Leading technical decisions, defining best practices, and ensuring code quality across full-stack applications.
 
-I focus on creating software that is clean, testable, and closely aligned with business goals, while cultivating a professional and continuous-learning mindset within engineering teams.
+I focus on creating software that is clean, testable, and closely aligned with business goals, always striving for engineering excellence and scalable architectures.
 
 ---
 
@@ -61,10 +61,10 @@ Enterprise-grade reactive backend patterns built with Spring Boot.
 *   **Authentication**: [ms-autenticacion](https://github.com/angelamonsalvep/ms-autenticacion) — A dedicated, high-performance security microservice utilizing **Spring WebFlux** and JWT authentication.
 *   **Request Management**: [ms-solicitudes](https://github.com/angelamonsalvep/ms-solicitudes) — A reactive microservice designed for processing system requests efficiently under heavy load.
 
-### 🎓 Mentorship, Standards & Clean Architecture
-Tooling and curriculum repositories demonstrating software design leadership and educational methodology.
+### 🏗️ Architecture, Tooling & Foundations
+Repositories showcasing technical leadership, code scaffolding, and advanced system integrations.
 *   **Scaffold**: [scaffold-clean-architecture](https://github.com/angelamonsalvep/scaffold-clean-architecture) — A Gradle plugin designed to bootstrap production-ready Java projects pre-configured with Clean Architecture patterns.
-*   **Training Curriculum**: [riwi-complements-java-angular](https://github.com/angelamonsalvep/riwi-complements-java-angular) — Structural codebases and study materials used to train junior developers in Java Spring WebFlux, Angular, and cloud scaling.
+*   **Advanced Integration**: [riwi-complements-java-angular](https://github.com/angelamonsalvep/riwi-complements-java-angular) — Comprehensive codebases implementing modern architecture, Java WebFlux, Angular, and cloud scaling.
 
 ### 🛒 React Storefront
 Dynamic, user-centric frontend applications.
@@ -72,11 +72,11 @@ Dynamic, user-centric frontend applications.
 
 ---
 
-## 📚 Methodology & Core Beliefs
+## ⚙️ Core Engineering Principles
 
-- **Project-Based Learning**: I design educational pipelines modeled after real-world production environments.
-- **Strict Quality Standards**: Emphasis on clean code, thorough unit testing, automated verification, and proper API documentation.
-- **Continuous Growth**: Instilling an architectural mindset that prioritizes domain rules over frameworks.
+- **Strict Quality Standards**: Emphasis on clean code, thorough unit/integration testing, automated verification, and proper API documentation.
+- **Domain-Driven Design**: Instilling an architectural mindset that prioritizes domain business rules over framework dependencies.
+- **Performance & Scalability**: Designing reactive, event-driven architectures to support heavy application loads.
 
 ---
 
